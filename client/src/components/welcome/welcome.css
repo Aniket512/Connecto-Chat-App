@@ -1,0 +1,16 @@
+.welcome-text {
+    color: white;
+  }
+  
+  .welcome-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+  }
+  
+  .robot {
+    height: 20rem;
+  }
+  
